@@ -13,4 +13,9 @@
       <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="frontend\public\" />
+      <Folder Include="frontend\src\assets\" />
+    </ItemGroup>
+
 </Project>
